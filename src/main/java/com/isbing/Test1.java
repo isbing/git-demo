@@ -5,4 +5,5 @@ package com.isbing;
  * Created time 2020/10/22 16:27
  */
 public class Test1 {
+	private String name;
 }
